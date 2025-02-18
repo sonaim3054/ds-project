@@ -1,2 +1,2 @@
-# ds-project
+# Data Science project
 disease detection using CNN algorithm 
